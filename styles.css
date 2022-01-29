@@ -1,0 +1,180 @@
+h4 {
+    text-align: center;
+    padding-top: 30px;
+    /* color: #143675; */
+    
+}
+h2 {
+    color: #143675;
+}
+h3 {
+    color: #143675;
+}
+h6 {
+    color: #143675;
+}
+
+.main-header {
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-color: #0693e3;
+    color: white;
+    margin-bottom: 0;
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > a {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 120px;
+    float:none;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+	color: #333;
+}
+  
+.navbar-dark .navbar-nav .nav-link {
+	color: #fff;
+}
+.bg-light {
+	background-color: #ebebed !important;
+}
+.navbar-light .navbar-brand {
+	color: #143675 !important;
+}
+.navbar-light .navbar-nav .nav-link.active {
+	color: #143675 !important;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #143675 !important;
+}
+
+img {
+    margin-top: 50px;
+    border-radius: 25px;
+    width: 700px;
+    box-shadow: 5px 5px #D3D3D3;
+}
+.image {
+    display: flex;
+    justify-content: space-around;
+}
+.info h2 {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.info p {
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+.hello {
+    text-align: center;
+}
+
+#page-footer {
+    text-align: center;
+    font-size: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #143675;
+    color: white;
+    width: 100%;
+}
+
+.page-header {
+    margin-top: 20px;
+    text-align: center;
+}
+.plan-info {
+    text-align: center;
+}
+.plan-info li {
+    list-style-type: none;
+}
+.long-paragraph {
+    width: 700px;
+    margin: auto;
+}
+.pricing {
+    /* background-color: #0693e3;
+    color: white; */
+}
+.floorplan {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #0693e3;
+}
+.floorplan img {
+    width: 500px;
+    box-shadow: none;
+}
+.floorplan p {
+    width: 500px;
+    margin-left: 30px;
+    padding-top: 250px;
+    color: white;
+}
+.last-floorplan {
+    height: 40px;
+    background-color: #0693e3;
+}
+
+
+
+
+/* PHOTOS PAGE */
+.photos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.photos img {
+    width: 30%;
+    box-shadow: none;
+    border-radius: 0px;
+}
+
+.photos-header {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+
+
+/* CONTACT US PAGE */
+
+.contact-options {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+}
